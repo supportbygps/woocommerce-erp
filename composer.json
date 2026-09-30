@@ -1,0 +1,15 @@
+{
+    "name": "yourvendor/wc-enterprise-erp",
+    "description": "Modular Enterprise ERP for WooCommerce (Bangladesh-ready).",
+    "type": "wordpress-plugin",
+    "license": "proprietary",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}

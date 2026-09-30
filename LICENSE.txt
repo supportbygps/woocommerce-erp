@@ -1,0 +1,14 @@
+WC Enterprise ERP — Commercial License
+
+Copyright (c) 2026. All rights reserved.
+
+This software is sold under a commercial license. One license grants use on
+the number of production sites permitted by the purchased tier (Starter,
+Business or Enterprise). Redistribution, resale or sublicensing of the source
+code is not permitted without written consent from the copyright holder.
+
+PHP code interfaces with WordPress and therefore inherits GPL-compatible
+obligations for the PHP portions when distributed; branding, license server
+integration and support services remain proprietary.
+
+Replace this file with your final legal text before distribution.
